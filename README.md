@@ -1,2 +1,4 @@
 # -OOXX
 一个简单的Android前端设计结合后端SpringBoot开发的康思游戏OOXX复现
+android为后端SpringBoot开发代码，main是前端安卓APP代码
+仅有代码，没有环境配置
